@@ -1,0 +1,18 @@
+(x,y)
+array[y,x] ---para numpy
+-----
+MAPA:
+---
+1. a mano
+---
+2. opencv:
+	cv2.erode
+	cv2.dilate
+	cv2.bitwise(or, and, xor)
+	
+---
+mathplot -  para representar (numpy)
+---
+array = []
+np.save('name', array)
+==> np.load('name.npy')
